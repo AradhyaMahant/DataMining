@@ -1,4 +1,4 @@
-# DataMining
+# Machine Learning
 
 Some algorithms of machine learning showing the concept of :<br /><br />
 
